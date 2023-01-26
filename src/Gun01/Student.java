@@ -7,5 +7,7 @@ public class Student {
 
         System.out.println("Task 2 yapildi");
 
+        System.out.println("merhaba 3");
+
     }
 }
